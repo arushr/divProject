@@ -10,7 +10,7 @@ const GraphContainer = styled.div`
 
 const Graph = () => (
   <GraphContainer>
-    <p>Graph Here!!</p>
+    <p>Graph Here!!!</p>
   </GraphContainer>
 );
 
