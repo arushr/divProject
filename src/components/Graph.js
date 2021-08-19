@@ -1,7 +1,5 @@
 import React from 'react';
 
-// import styles from '../assets/Graph.css';
-
 import styled from 'styled-components';
 
 const GraphContainer = styled.div`
